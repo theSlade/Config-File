@@ -1,0 +1,18 @@
+{
+  "TOKEN": "BOT_TOKEN",
+  "PREFIX": "BOT_PREFIX",
+  "BOT_NAME": "BOT_NAME",
+
+  "COLORS": {
+    "main": "MAIN_COLOR",
+    "white": "#ffffff",
+    "blue": "#2284ec",
+    "dark_blue": "#06465e",
+    "red": "#de2b10"
+  },
+
+  "ERROR": {
+    "CLIENT": "Something went wrong... \n❌ **Fail Code:** ``Missing Permissions``",
+    "MEMBER": "Something went wrong... \n❌ **Fail Code:** ``You Dont Have Permissions``"
+  }
+}
